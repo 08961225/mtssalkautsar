@@ -1,0 +1,47 @@
+
+[data-theme="dark"] {
+  background-color: #111 !important;
+}
+
+[data-theme="dark"] .bg-light {
+  background-color: #1F2020 !important;
+}
+
+[data-theme="dark"] .container-fluid {
+  background-color: #333 !important;
+  font-style: var(--white);
+}
+
+[data-theme="dark"] #wrapper #content-wrapper {
+  background-color: #333 !important;
+}
+
+
+
+[data-theme="dark"] .sidebar{
+  background-color: #111111  !important;
+}
+
+
+[data-theme="dark"] .bg-white {
+  background-color: #1F2020 !important;
+}
+
+[data-theme="dark"] .bg-black {
+  background-color: #eee !important;
+}
+
+[data-theme="dark"] .btn-primary {
+  background-color: #030104 !important;
+  border-color:#030104 !important ;
+}
+
+[data-theme="dark"] .btn-success {
+  background-color: #030104 !important;
+  border-color:#030104 !important ;
+}
+
+[data-theme="dark"] .btn-danger {
+  background-color: #030104 !important;
+  border-color:#030104 !important ;
+}
